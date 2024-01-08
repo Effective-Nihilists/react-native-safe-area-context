@@ -4,6 +4,7 @@
 #include <react/renderer/core/LayoutContext.h>
 #include <yoga/Yoga.h>
 #include <algorithm>
+#include "CompactValue.h"
 
 namespace facebook {
 namespace react {
