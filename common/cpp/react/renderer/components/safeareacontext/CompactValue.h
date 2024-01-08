@@ -16,7 +16,7 @@
 #include <yoga/YGValue.h>
 
 #include <yoga/numeric/Comparison.h>
-#include <yoga/style/StyleLength.h>
+#include "StyleLength.h"
 
 static_assert(
     std::numeric_limits<float>::is_iec559,
